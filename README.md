@@ -49,6 +49,18 @@ An advanced **e-commerce platform** with integrated **AI-driven recommendation s
 
 ---
 
+
+
+##  GitHub Stats
+![Elias's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliasDemlie&show_icons=true&theme=tokyonight&count_private=true)
+
+## Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasDemlie&layout=compact&theme=tokyonight)
+
+## Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=EliasDemlie&theme=tokyonight&date_format=j%20M%5B%20Y%5D)
+
+
 ##  Let's Connect
 
 <p align="left">

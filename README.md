@@ -54,8 +54,8 @@ I specialize in both frontend and backend development, and I enjoy working in co
 -  **recommendation system** to suggest products based on user behavior  
 - Integrated **AI chatbot** to assist customers with queries and product selection  
 - **Chapa payment system** integration for secure online payments  
-- 🛠 Built with **Next.js, Node.js, MongoDB, Tailwind CSS, and AI APIs**  
-- ☁ Hosted with **vercel**
+-  Built with **Next.js, Node.js, MongoDB, Tailwind CSS, and AI APIs**  
+-  Hosted with **vercel**
 
 ---
 

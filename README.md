@@ -60,6 +60,7 @@ I specialize in both frontend and backend development, and I enjoy working in co
 ![GitHub Streak](https://streak-stats.demolab.com?user=EliasDemlie&theme=tokyonight&date_format=j%20M%5B%20Y%5D)
 
 ##  Contact Me
+<img src="https://github.com/eliasdemlie.png" alt="Elias Demlie" width="120" height="120" style="border-radius:50%;">
 
 - **Email:** [elias.dm257@gmail.com](mailto:elias.dm257@gmail.com)  
 - **Phone:** +251 920 52 62 95  

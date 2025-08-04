@@ -7,7 +7,7 @@ I specialize in both frontend and backend development, and I enjoy working in co
 
 ## 🛠 Tech Stack
 
-**Languages & Frameworks** 
+**Languages & Frameworks**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -37,15 +37,14 @@ I specialize in both frontend and backend development, and I enjoy working in co
 ## 🚀 Final Year Project
 
 ### AI-Powered E-Commerce Website
-An advanced **e-commerce platform** with integrated **AI-driven recommendation system** and **chatbot support**, designed to enhance user shopping experiences.
 
 **Key Features:**
-- 🛒 Full e-commerce functionality: product browsing, cart, checkout, and order management  
-- 🤖 AI-powered **recommendation system** to suggest products based on user behavior  
-- 💬 Integrated **AI chatbot** to assist customers with queries and product selection  
-- 💳 **Chapa payment system** integration for secure online payments  
-- 🛠 Built with **Next.js, Node.js, Prisma ORM, PostgreSQL, Tailwind CSS, and AI APIs**  
-- ☁ Hosted with **scalable backend architecture** for performance and reliability
+-  e-commerce functionality: product browsing, cart, checkout, and order management  
+-  **recommendation system** to suggest products based on user behavior  
+- Integrated **AI chatbot** to assist customers with queries and product selection  
+- **Chapa payment system** integration for secure online payments  
+- 🛠 Built with **Next.js, Node.js, MongoDB, Tailwind CSS, and AI APIs**  
+- ☁ Hosted with **vercel**
 
 ---
 
@@ -61,10 +60,13 @@ An advanced **e-commerce platform** with integrated **AI-driven recommendation s
 ![GitHub Streak](https://streak-stats.demolab.com?user=EliasDemlie&theme=tokyonight&date_format=j%20M%5B%20Y%5D)
 
 
-##  Let's Connect
+##  Let's Connect — Elias Demlie
+
+ **Email:** [elias.dm257@gmail.com](mailto:elias.dm257@gmail.com)  
+ **Phone:** +251 920 52 62 95  
 
 <p align="left">
   <a href="mailto:elias.dm257@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/elias-demlie/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/eliasdemlie"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>

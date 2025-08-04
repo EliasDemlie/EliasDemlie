@@ -59,14 +59,9 @@ I specialize in both frontend and backend development, and I enjoy working in co
 ## Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=EliasDemlie&theme=tokyonight&date_format=j%20M%5B%20Y%5D)
 
+##  Contact Me
 
-##  Let's Connect — Elias Demlie
-
- **Email:** [elias.dm257@gmail.com](mailto:elias.dm257@gmail.com)  
- **Phone:** +251 920 52 62 95  
-
-<p align="left">
-  <a href="mailto:elias.dm257@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/elias-demlie/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/eliasdemlie"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+- **Email:** [elias.dm257@gmail.com](mailto:elias.dm257@gmail.com)  
+- **Phone:** +251 920 52 62 95  
+- **LinkedIn:** [eliasdemlie](https://www.linkedin.com/in/eliasdemlie)  
+- **Portfolio:** [eliasd.vercel.app](https://eliasd.vercel.app)

@@ -50,7 +50,7 @@ I specialize in both frontend and backend development, and I enjoy working in co
 ### AI-Powered E-Commerce Website
 
 **Key Features:**
--  e-commerce functionality: product browsing, cart, checkout, and order management  
+-  **secure **: checkout, and order management  
 -  **recommendation system** to suggest products based on user behavior  
 - Integrated **AI chatbot** to assist customers with queries and product selection  
 - **Chapa payment system** integration for secure online payments  

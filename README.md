@@ -5,7 +5,7 @@ I specialize in both frontend and backend development, and I enjoy working in co
 
 ---
 
-##  Tech Stack
+##  Skills Tech Stack
 
 **Languages & Frameworks**
 <ul>

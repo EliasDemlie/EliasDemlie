@@ -47,7 +47,7 @@ I specialize in both frontend and backend development, and I enjoy working in co
 ---
 ##  Final Year Project
 
-### AI-Powered E-Commerce Website
+### AI-Powered E-Commerce platform
 
 **Key Features:**
 -  **secure **: checkout, and order management  

@@ -70,4 +70,4 @@ I specialize in both frontend and backend development, and I enjoy working in co
 - **Email:** [elias.dm257@gmail.com](mailto:elias.dm257@gmail.com)  
 - **Phone:** +251 920 52 62 95  
 - **LinkedIn:** [eliasdemlie](https://www.linkedin.com/in/eliasdemlie)  
-- **Portfolio:** [eliasd.vercel.app](https://eliasd.vercel.app)
+- **Portfolio:** [eliasd.vercel.app](https://eliasdemlie.vercel.app)
